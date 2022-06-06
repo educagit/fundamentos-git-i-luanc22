@@ -22,6 +22,5 @@ Para cada comando utilizado, procure anotar separadamente, para depois poder com
 - [Documentação sobre Markdown](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Vídeo sobre os fundamentos de branches](https://www.youtube.com/watch?v=H5GJfcp3p4Q)
 
-
-substitua essa frase pela imagem do octocat
+<img align="center" alt="Octocat" src="https://octodex.github.com/images/kimonotocat.png" />
 
